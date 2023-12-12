@@ -1,0 +1,362 @@
+[
+    {
+        "id": "mtb-01",
+        "titulo": "Bicicleta Zebra MTB 29",
+        "imagen": "https://gwbicycles.com/cdn/shop/products/Bicicleta-Zebra-MTB-29-GW-Bicycles-Colombia_720x.jpg?v=1652191732",
+        "categoria": {
+            "nombre": "Montaña",
+            "id": "montaña"
+        },
+        "precio": 927600
+    },
+    {
+        "id": "mtb-02",
+        "titulo": "Bicicleta Scorpion MTB 29",
+        "imagen": "https://gwbicycles.com/cdn/shop/products/Bicicleta-Scorpion-MTB-29-GW-Bicycles-Colombia_540x.jpg?v=1652191706",
+        "categoria": {
+            "nombre": "Montaña",
+            "id": "montaña"
+        },
+        "precio": 992900
+    },
+    {
+        "id": "mtb-03",
+        "titulo": "Bicicleta Jaguar MTB 29",
+        "imagen": "https://gwbicycles.com/cdn/shop/products/Bicicleta-Jaguar-MTB-29-GW-Bicycles-Colombia_720x.jpg?v=1652191652",
+        "categoria": {
+            "nombre": "Montaña",
+            "id": "montaña"
+        },
+        "precio": 907600
+    },
+    {
+        "id": "mtb-04",
+        "titulo": "Bicicleta Hyena MTB 29",
+        "imagen": "https://gwbicycles.com/cdn/shop/files/54295-2_720x.jpg?v=1682610456",
+        "categoria": {
+            "nombre": "Montaña",
+            "id": "montaña"
+        },
+        "precio": 1841600
+    },
+    {
+        "id": "mtb-05",
+        "titulo": "Bicicleta Hawk MTB",
+        "imagen": "https://gwbicycles.com/cdn/shop/files/63919-2_540x.jpg?v=1682610476",
+        "categoria": {
+            "nombre": "Montaña",
+            "id": "montaña"
+        },
+        "precio": 3555600
+    },
+    {
+        "id": "mtb-06",
+        "titulo": "Bicicleta FAT Aluminio 26P GW 8VEL.",
+        "imagen": "https://gwbicycles.com/cdn/shop/files/28492-2_540x.jpg?v=1682623781",
+        "categoria": {
+            "nombre": "Montaña",
+            "id": "montaña"
+        },
+        "precio": 2171600
+    },
+    {
+        "id": "mtb-07",
+        "titulo": "Bicicleta MTB 27.5 Deer 7.3 9Vel D/B Hidráulico.",
+        "imagen": "https://gwbicycles.com/cdn/shop/products/BICICLETA-MTB-27_5-DEER-7_3-9VEL_-DB-HIDRA_-GW-Bicycles-3_540x.jpg?v=1652199941",
+        "categoria": {
+            "nombre": "Montaña",
+            "id": "montaña"
+        },
+        "precio": 1535900
+    },
+    {
+        "id": "mtb-08",
+        "titulo": "Bicicleta Panther MTB",
+        "imagen": "https://gwbicycles.com/cdn/shop/files/66977-1_1_720x.jpg?v=1682624385",
+        "categoria": {
+            "nombre": "Montaña",
+            "id": "montaña"
+        },
+        "precio": 3825600
+    },
+    {
+        "id": "mtb-09",
+        "titulo": "Bicicleta Shark MTB",
+        "imagen": "https://gwbicycles.com/cdn/shop/files/65428-1_1_540x.jpg?v=1682610920",
+        "categoria": {
+            "nombre": "Montaña",
+            "id": "montaña"
+        },
+        "precio": 4248600
+    },
+    {
+        "id": "ruta-01",
+        "titulo": "Bicicleta Gavia Ruta",
+        "imagen": "https://gwbicycles.com/cdn/shop/files/060248-1_720x.jpg?v=1682624633",
+        "categoria": {
+            "nombre": "Ruta",
+            "id": "ruta"
+        },
+        "precio": 2218600
+    },
+    {
+        "id": "ruta-02",
+        "titulo": "Bicicleta K2 Ruta",
+        "imagen": "https://gwbicycles.com/cdn/shop/files/63748-2_540x.jpg?v=1682624483",
+        "categoria": {
+            "nombre": "Ruta",
+            "id": "ruta"
+        },
+        "precio": 2814600
+    },
+    {
+        "id": "ruta-03",
+        "titulo": "Bicicleta Ventoux Ruta",
+        "imagen": "https://gwbicycles.com/cdn/shop/products/64526-1_720x.jpg?v=1682339471",
+        "categoria": {
+            "nombre": "Ruta",
+            "id": "ruta"
+        },
+        "precio": 3067600
+    },
+    {
+        "id": "ruta-04",
+        "titulo": "Bicicleta Flamma Ruta GW",
+        "imagen": "https://gwbicycles.com/cdn/shop/files/060241-4_540x.jpg?v=1682623606",
+        "categoria": {
+            "nombre": "Ruta",
+            "id": "ruta"
+        },
+        "precio": 3322600
+    },
+    {
+        "id": "ruta-05",
+        "titulo": "Bicicleta Covadonga Ruta",
+        "imagen": "https://gwbicycles.com/cdn/shop/products/Bicicleta-Covadonga-Ruta-GW_540x.jpg?v=1652205139",
+        "categoria": {
+            "nombre": "Ruta",
+            "id": "ruta"
+        },
+        "precio": 4403600
+    },
+    {
+        "id": "ruta-06",
+        "titulo": "Bicicleta Letras UltraLight Ruta",
+        "imagen": "https://gwbicycles.com/cdn/shop/products/Bicicleta-Letras-UltraLight-Ruta-GW-Bicycles-Colombia_540x.jpg?v=1652191923",
+        "categoria": {
+            "nombre": "Ruta",
+            "id": "ruta"
+        },
+        "precio": 5423600
+    },
+    {
+        "id": "ruta-07",
+        "titulo": "Bicicleta Sprinter Ruta",
+        "imagen": "https://gwbicycles.com/cdn/shop/products/Bicicleta-Sprinter-Ruta-GW-Bicycles-Colombia_540x.jpg?v=1652191957",
+        "categoria": {
+            "nombre": "Ruta",
+            "id": "ruta"
+        },
+        "precio": 5032600
+    },
+    {
+        "id": "ruta-08",
+        "titulo": "Bicicleta Letras Disc Ruta",
+        "imagen": "https://gwbicycles.com/cdn/shop/products/Bicicleta-Letras-Disc-Ruta-GW-Bicycles-Colombia_720x.jpg?v=1652191868",
+        "categoria": {
+            "nombre": "Ruta",
+            "id": "ruta"
+        },
+        "precio": 5032600
+    },
+    {
+        "id": "ruta-09",
+        "titulo": "Bicicleta Pista Negra-Blanca Avanti.",
+        "imagen": "https://gwbicycles.com/cdn/shop/products/BICICLETA-PISTA-NEGRA-BLANCA-AVANTI-GW-Bicycles_720x.jpg?v=1652199917",
+        "categoria": {
+            "nombre": "Ruta",
+            "id": "ruta"
+        },
+        "precio": 4071600
+    },
+    {
+        "id": "ruta-10",
+        "titulo": "Bicicleta Flamma Disco Ruta",
+        "imagen": "https://gwbicycles.com/cdn/shop/files/azul-2_c1e979a7-0e2c-4cd3-9605-d0a69f91708e_540x.jpg?v=1695398144",
+        "categoria": {
+            "nombre": "Ruta",
+            "id": "ruta"
+        },
+        "precio": 5625600
+    },
+    {
+        "id": "electrica-01",
+        "titulo": "Bicicleta Eléctrica Bogotá GW",
+        "imagen": "https://gwbicycles.com/cdn/shop/products/bicicleta-electrica-bogota-gw-bicycles_540x.jpg?v=1622844438",
+        "categoria": {
+            "nombre": "Eléctricas",
+            "id": "electricas"
+        },
+        "precio": 4508900
+    },
+    {
+        "id": "electrica-02",
+        "titulo": "Bicicleta Eléctrica Plegable Nantes Black",
+        "imagen": "https://gwbicycles.com/cdn/shop/products/Bicicleta-Electrica-Plegable-Nantes-Black-GW-Bicycles_540x.jpg?v=1652205466",
+        "categoria": {
+            "nombre": "Eléctricas",
+            "id": "electricas"
+        },
+        "precio": 4681900
+    },
+    {
+        "id": "electrica-03",
+        "titulo": "Bicicleta Eléctrica Plegable Nantes",
+        "imagen": "https://gwbicycles.com/cdn/shop/products/Bicicleta-Electrica-Plegable-Nantes-Gris-GW-Bicycles_540x.jpg?v=1652199815",
+        "categoria": {
+            "nombre": "Eléctricas",
+            "id": "electricas"
+        },
+        "precio": 4681900
+    },
+    {
+        "id": "electrica-04",
+        "titulo": "Bicicleta Eléctrica Vancouver",
+        "imagen": "https://gwbicycles.com/cdn/shop/products/bicicleta-electrica-vancouver-gw-bicycles_540x.jpg?v=1622840755",
+        "categoria": {
+            "nombre": "Eléctricas",
+            "id": "electricas"
+        },
+        "precio": 4857600
+    },
+    {
+        "id": "electrica-05",
+        "titulo": "Bicicleta Eléctrica Oslo",
+        "imagen": "https://gwbicycles.com/cdn/shop/products/bicicleta-electrica-oslo-gw-bicycles_360x.jpg?v=1622840809",
+        "categoria": {
+            "nombre": "Eléctricas",
+            "id": "electricas"
+        },
+        "precio": 4857600
+    },
+    {
+        "id": "bmx-01",
+        "titulo": "Marco BMX G1+",
+        "imagen": "https://gwbicycles.com/cdn/shop/products/Marco-BMX-G1-GW-Bicycles_720x.jpg?v=1652204507",
+        "categoria": {
+            "nombre": "BMX",
+            "id": "bmx"
+        },
+        "precio": 1360000
+    },
+    {
+        "id": "urbana-01",
+        "titulo": "Bicicleta 700 Berlín GW 8Vel Hidráulico.",
+        "imagen": "https://gwbicycles.com/cdn/shop/products/BICICLETA-700-BERLIN-GW-8-VEL-HIDRA_-GW-Bicycles_720x.jpg?v=1652189417",
+        "categoria": {
+            "nombre": "Urbana",
+            "id": "urbana"
+        },
+        "precio": 1855900
+    },
+    {
+        "id": "urbana-02",
+        "titulo": "Bicicleta Sacramento",
+        "imagen": "https://gwbicycles.com/cdn/shop/files/WhatsAppImage2023-05-26at11.46.24AM_360x.jpg?v=1685119728",
+        "categoria": {
+            "nombre": "Urbana",
+            "id": "urbana"
+        },
+        "precio": 1427600
+    },
+    {
+        "id": "urbana-03",
+        "titulo": "Bicicleta Plegable Acero 20P GW Copenhague",
+        "imagen": "https://gwbicycles.com/cdn/shop/products/bicicleta-plegable-acero-20p-gw-copenhague-gw-bicycles_540x.jpg?v=1622845425",
+        "categoria": {
+            "nombre": "Urbana",
+            "id": "urbana"
+        },
+        "precio": 970600
+    },
+    {
+        "id": "trial-01",
+        "titulo": "Bicicleta Trial GW Vértigo 20",
+        "imagen": "https://gwbicycles.com/cdn/shop/files/060521-2_360x.jpg?v=1682607586",
+        "categoria": {
+            "nombre": "Trial",
+            "id": "trial"
+        },
+        "precio": 1309600
+    },
+    {
+        "id": "niños-01",
+        "titulo": "Triciclos Niña GW Princess",
+        "imagen": "https://gwbicycles.com/cdn/shop/products/triciclos-nina-gw-princess-xg-1154-gw-bicycles_360x.jpg?v=1622844935",
+        "categoria": {
+            "nombre": "Niños",
+            "id": "niños"
+        },
+        "precio": 158600
+    },
+    {
+        "id": "niños-02",
+        "titulo": "Bicicleta Bugs 12 Niña",
+        "imagen": "https://gwbicycles.com/cdn/shop/files/67825-1_1_360x.jpg?v=1700227916",
+        "categoria": {
+            "nombre": "Niños",
+            "id": "niños"
+        },
+        "precio": 199.900
+    },
+    {
+        "id": "niños-03",
+        "titulo": "Bicicleta Shadow 20 Niño",
+        "imagen": "https://gwbicycles.com/cdn/shop/files/68347-1_360x.jpg?v=1698415850",
+        "categoria": {
+            "nombre": "Niños",
+            "id": "niños"
+        },
+        "precio": 535600
+    },
+    {
+        "id": "niños-04",
+        "titulo": "Bicicleta Balance Niños 12 Freeride",
+        "imagen": "https://gwbicycles.com/cdn/shop/files/060582-3_360x.jpg?v=1699623821",
+        "categoria": {
+            "nombre": "Niños",
+            "id": "niños"
+        },
+        "precio": 321600
+    },
+    {
+        "id": "niños-05",
+        "titulo": "Bicicleta Shadonw 16 Niño",
+        "imagen": "https://gwbicycles.com/cdn/shop/files/68300-1_360x.jpg?v=1698354044",
+        "categoria": {
+            "nombre": "Niños",
+            "id": "niños"
+        },
+        "precio": 491600
+    },
+    {
+        "id": "niños-06",
+        "titulo": "Bicicleta Niño/Niña 12 Extreme GW",
+        "imagen": "https://gwbicycles.com/cdn/shop/files/66616-1_360x.jpg?v=1700237696",
+        "categoria": {
+            "nombre": "Niños",
+            "id": "niños"
+        },
+        "precio": 280600
+    },
+    {
+        "id": "niños-07",
+        "titulo": "Bicicleta Siren 16 Niña",
+        "imagen": "https://gwbicycles.com/cdn/shop/files/68286-1_360x.jpg?v=1700238026",
+        "categoria": {
+            "nombre": "Niños",
+            "id": "niños"
+        },
+        "precio": 501600
+    }
+]
